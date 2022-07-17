@@ -1,6 +1,6 @@
 ### Olá, me chamo Nicolas! 👋
 
-**Bem vindo ao meu perfil do Github.
+*Bem vindo ao meu perfil do Github.
 
 Atualmente trabalho como Data Analytics, e possuo experiência de 6 anos atuando em áreas de Business Intelligence, Projetos voltados para estruturação de um time de dados, e atualmente no time de Analytics.
 
