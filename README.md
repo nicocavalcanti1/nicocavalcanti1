@@ -1,4 +1,4 @@
-### Olá, me chamo Nicolas! 👋
+### Olá! 👋
 
 Bem vindo ao meu perfil do Github.
 
@@ -41,7 +41,7 @@ Procuro me desenvolver e evoluir no mundo da programação, focando no momento c
 </p>
 <div>
 <a href="https://github.com/nicocavalcanti1">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicocavalcanti1&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicocavalcanti1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicocavalcanti1&layout=compact&langs_count=7&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicocavalcanti1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
