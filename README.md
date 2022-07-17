@@ -8,17 +8,26 @@ Procuro me desenvolver e evoluir no mundo da programação, focando no momento c
 ### Ferramentas e Tecnologias que atuei/utilizei
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-
-
-
-
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
 ### Estudando atualmente
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-
-
-
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
 
 ### Contatos:
 
@@ -32,7 +41,7 @@ Procuro me desenvolver e evoluir no mundo da programação, focando no momento c
 </p>
 <div>
 <a href="https://github.com/nicocavalcanti1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicocavalcanti1&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicocavalcanti1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicocavalcanti1&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicocavalcanti1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
