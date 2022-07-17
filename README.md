@@ -1,12 +1,19 @@
-### Hi there 👋
+### Olá, me chamo Nicolas! 👋
 
 <!--
-**nicocavalcanti1/nicocavalcanti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bem vindo ao meu perfil do Github.
 
-Here are some ideas to get you started:
+Atualmente trabalho como Data Analytics, e possuo experiência de 6 anos atuando em áreas de Business Intelligence, Projetos voltados para estruturação de um time de dados, e atualmente no time de Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+                    
+          
+- 🔭 Atualmente trabalhando na Clear Sale
+- 🌱 Estudando atualmente: Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
