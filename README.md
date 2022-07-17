@@ -16,7 +16,7 @@ Procuro me desenvolver e evoluir no mundo da programação, focando no momento c
 </p>
 </p>
 </p>
-</p>
+
 ### Estudando atualmente
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
