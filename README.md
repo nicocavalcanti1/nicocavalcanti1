@@ -1,29 +1,34 @@
-### Olá! 👋
+## Olá, meu nome é Nicolas Cavalcanti
 
-Bem vindo ao meu perfil do Github.
+Formado em Estatística e atualmente trabalho como Data Analytics, focado em Fraud Analysis. Possuo 6 anos de experiência atuando em áreas de Business Intelligence e Projetos voltados para estruturação da área de dados.
+</p>
+</p>
+</p>
+<div>
+<a href="https://github.com/nicocavalcanti1">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicocavalcanti1&layout=compact&langs_count=7&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicocavalcanti1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
+</p>
 
-Atualmente trabalho como Data Analytics, com 6 anos de experiência atuando em áreas de Business Intelligence, Projetos voltados para estruturação de um time de dados.
-Procuro me desenvolver e evoluir no mundo da programação, focando no momento com a linguagem Java.
+### Alguma das ferramentas que trabalho/utilizo atualmente
 
-### Ferramentas e Tecnologias que atuei/utilizei
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> 
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
+### Possuo familiaridade/conhecimento
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>
+
 
 ### Estudando atualmente
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
-</p>
-</p>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>           
 </p>
 </p>
 </p>
@@ -39,9 +44,5 @@ Procuro me desenvolver e evoluir no mundo da programação, focando no momento c
 </p>
 </p>
 </p>
-<div>
-<a href="https://github.com/nicocavalcanti1">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicocavalcanti1&layout=compact&langs_count=7&theme=algolia"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicocavalcanti1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
+
 
